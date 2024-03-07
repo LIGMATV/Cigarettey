@@ -1,0 +1,150 @@
+<svg height="600" width="600" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 3/7/2024, 4:03:06 PM -->
+<g transform="translate(137.95258,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 119.32263C86.93035 119.32263 99.96171 9.53763 174.89206 9.53763" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Atocene (Penghapus Cat): 1</title></path>
+<path id="flow1" d="M12 138.39789C86.93035 138.39789 99.96171 40.81123 174.89206 40.81123" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Ammonia (Pembersih Lantai: 1</title></path>
+<path id="flow2" d="M12 157.47316C86.93035 157.47316 99.96171 72.08482 174.89206 72.08482" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Methanol (Bahan Bakar Roket): 1</title></path>
+<path id="flow3" d="M12 176.54842C86.93035 176.54842 99.96171 103.35842 174.89206 103.35842" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Toluene (Pelarut Industri): 1</title></path>
+<path id="flow4" d="M12 195.62368C86.93035 195.62368 99.96171 134.63202 174.89206 134.63202" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Tarsenic (Racun Semut Putih): 1</title></path>
+<path id="flow5" d="M12 214.69895C86.93035 214.69895 99.96171 165.90561 174.89206 165.90561" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Dimethyinitrosamine (Zat Karsinogenik): 1</title></path>
+<path id="flow6" d="M12 233.77421C86.93035 233.77421 99.96171 197.17921 174.89206 197.17921" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Naphtelene (Kapur barus): 1</title></path>
+<path id="flow7" d="M12 252.84947C86.93035 252.84947 99.96171 228.45281 174.89206 228.45281" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Phenol (antiseptik/pembunuh kuman): 1</title></path>
+<path id="flow8" d="M12 271.92474C86.93035 271.92474 99.96171 259.7264 174.89206 259.7264" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Butane (Bahan bakar korek api): 1</title></path>
+<path id="flow9" d="M12 281.46237v19.07526L174.89206 300.53763v-19.07526z" fill="#07bbbc" stroke-width="0.5" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Karbon Monoxide (Gas dari knalpot): 1</title></path>
+<path id="flow10" d="M12 310.07526C86.93035 310.07526 99.96171 322.2736 174.89206 322.2736" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Naphtylamine (Zat Karsinogenik): 1</title></path>
+<path id="flow11" d="M12 329.15053C86.93035 329.15053 99.96171 353.54719 174.89206 353.54719" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Pyrene (Pelarut Industri): 1</title></path>
+<path id="flow12" d="M12 348.22579C86.93035 348.22579 99.96171 384.82079 174.89206 384.82079" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Cadmium (Dipakai accu mobil): 1</title></path>
+<path id="flow13" d="M12 367.30105C86.93035 367.30105 99.96171 416.09439 174.89206 416.09439" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Benzopyrene (Zat Karsinogenik): 1</title></path>
+<path id="flow14" d="M12 386.37632C86.93035 386.37632 99.96171 447.36798 174.89206 447.36798" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Vinyl Chloride (Bahan Plastik PVC): 1</title></path>
+<path id="flow15" d="M12 405.45158C86.93035 405.45158 99.96171 478.64158 174.89206 478.64158" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Toluidine (Zat Karsinogenik): 1</title></path>
+<path id="flow16" d="M12 424.52684C86.93035 424.52684 99.96171 509.91518 174.89206 509.91518" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Urethane (Zat Karsinogenik): 1</title></path>
+<path id="flow17" d="M12 443.60211C86.93035 443.60211 99.96171 541.18877 174.89206 541.18877" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Dibenzacridine (Zat Karsinogenik): 1</title></path>
+<path id="flow18" d="M12 462.67737C86.93035 462.67737 99.96171 572.46237 174.89206 572.46237" fill="none" stroke-width="19.07526" stroke="#07bbbc" opacity="1"><title>Kandungan Rokok → Polonium -210 (bahan radioaktif): 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="109.785" height="362.43" width="12" fill="#17becf" fill-opacity="1"><title>Kandungan Rokok:
+19</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="174.89206" y="0" height="19.07526" width="12" fill="#1f77b4" fill-opacity="1"><title>Atocene (Penghapus Cat):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="174.89206" y="31.2736" height="19.07526" width="12" fill="#ff7f0e" fill-opacity="1"><title>Ammonia (Pembersih Lantai:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="174.89206" y="62.54719" height="19.07526" width="12" fill="#2ca02c" fill-opacity="1"><title>Methanol (Bahan Bakar Roket):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="174.89206" y="93.82079" height="19.07526" width="12" fill="#d62728" fill-opacity="1"><title>Toluene (Pelarut Industri):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="174.89206" y="125.09439" height="19.07526" width="12" fill="#9467bd" fill-opacity="1"><title>Tarsenic (Racun Semut Putih):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="174.89206" y="156.36798" height="19.07526" width="12" fill="#8c564b" fill-opacity="1"><title>Dimethyinitrosamine (Zat Karsinogenik):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="174.89206" y="187.64158" height="19.07526" width="12" fill="#e377c2" fill-opacity="1"><title>Naphtelene (Kapur barus):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="174.89206" y="218.91518" height="19.07526" width="12" fill="#7f7f7f" fill-opacity="1"><title>Phenol (antiseptik/pembunuh kuman):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="174.89206" y="250.18877" height="19.07526" width="12" fill="#bcbd22" fill-opacity="1"><title>Butane (Bahan bakar korek api):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="174.89206" y="281.46237" height="19.07526" width="12" fill="#17becf" fill-opacity="1"><title>Karbon Monoxide (Gas dari knalpot):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="174.89206" y="312.73596" height="19.07526" width="12" fill="#1f77b4" fill-opacity="1"><title>Naphtylamine (Zat Karsinogenik):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="174.89206" y="344.00956" height="19.07526" width="12" fill="#ff7f0e" fill-opacity="1"><title>Pyrene (Pelarut Industri):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="174.89206" y="375.28316" height="19.07526" width="12" fill="#2ca02c" fill-opacity="1"><title>Cadmium (Dipakai accu mobil):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="174.89206" y="406.55675" height="19.07526" width="12" fill="#d62728" fill-opacity="1"><title>Benzopyrene (Zat Karsinogenik):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="174.89206" y="437.83035" height="19.07526" width="12" fill="#9467bd" fill-opacity="1"><title>Vinyl Chloride (Bahan Plastik PVC):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="174.89206" y="469.10395" height="19.07526" width="12" fill="#8c564b" fill-opacity="1"><title>Toluidine (Zat Karsinogenik):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="174.89206" y="500.37754" height="19.07526" width="12" fill="#e377c2" fill-opacity="1"><title>Urethane (Zat Karsinogenik):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="174.89206" y="531.65114" height="19.07526" width="12" fill="#7f7f7f" fill-opacity="1"><title>Dibenzacridine (Zat Karsinogenik):
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="174.89206" y="562.92474" height="19.07526" width="12" fill="#bcbd22" fill-opacity="1"><title>Polonium -210 (bahan radioaktif):
+1</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-130.01039" y="269.68417" width="129.28843" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.41887" y="291" font-weight="400" font-size="14.4px" dy="-5.64791">Kandungan Rokok<tspan x="-6.41887" dy="19.32" font-weight="400" font-size="17.6px">19</tspan></text>
+<rect id="label1_bg" class="for_r1" x="187.65056" y="-11.77821" width="177.06539" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="193.31093" y="9.53763" font-weight="400" font-size="14.4px" dy="-5.64791">Atocene (Penghapus Cat)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label2_bg" class="for_r2" x="187.65056" y="19.49539" width="192.39342" height="41.59924" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="start" x="193.31093" y="40.81123" font-weight="400" font-size="14.4px" dy="-5.64791">Ammonia (Pembersih Lantai<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label3_bg" class="for_r3" x="188.55621" y="50.76899" width="208.13877" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="193.31093" y="72.08482" font-weight="400" font-size="14.4px" dy="-5.64791">Methanol (Bahan Bakar Roket)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label4_bg" class="for_r4" x="188.55621" y="82.04258" width="171.33933" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="193.31093" y="103.35842" font-weight="400" font-size="14.4px" dy="-5.64791">Toluene (Pelarut Industri)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label5_bg" class="for_r5" x="188.55621" y="113.31618" width="201.71628" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="193.31093" y="134.63202" font-weight="400" font-size="14.4px" dy="-5.64791">Tarsenic (Racun Semut Putih)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label6_bg" class="for_r6" x="188.55621" y="144.58977" width="262.49118" height="41.59926" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="193.31093" y="165.90561" font-weight="400" font-size="14.4px" dy="-5.64791">Dimethyinitrosamine (Zat Karsinogenik)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label7_bg" class="for_r7" x="188.55621" y="175.86337" width="176.15268" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="193.31093" y="197.17921" font-weight="400" font-size="14.4px" dy="-5.64791">Naphtelene (Kapur barus)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label8_bg" class="for_r8" x="188.55621" y="207.13696" width="248.95054" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="193.31093" y="228.45281" font-weight="400" font-size="14.4px" dy="-5.64791">Phenol (antiseptik/pembunuh kuman)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label9_bg" class="for_r9" x="188.55621" y="238.41055" width="213.75321" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="193.31093" y="259.7264" font-weight="400" font-size="14.4px" dy="-5.64791">Butane (Bahan bakar korek api)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label10_bg" class="for_r10" x="188.55621" y="269.68417" width="241.73401" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="193.31093" y="291" font-weight="400" font-size="14.4px" dy="-5.64791">Karbon Monoxide (Gas dari knalpot)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label11_bg" class="for_r11" x="188.55621" y="300.95776" width="220.11948" height="41.59922" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="193.31093" y="322.2736" font-weight="400" font-size="14.4px" dy="-5.64791">Naphtylamine (Zat Karsinogenik)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label12_bg" class="for_r12" x="188.55621" y="332.23135" width="166.52594" height="41.59922" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="193.31093" y="353.54719" font-weight="400" font-size="14.4px" dy="-5.64791">Pyrene (Pelarut Industri)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label13_bg" class="for_r13" x="188.55621" y="363.50494" width="206.49451" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="193.31093" y="384.82079" font-weight="400" font-size="14.4px" dy="-5.64791">Cadmium (Dipakai accu mobil)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label14_bg" class="for_r14" x="188.55621" y="394.77853" width="216.93638" height="41.59925" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="193.31093" y="416.09439" font-weight="400" font-size="14.4px" dy="-5.64791">Benzopyrene (Zat Karsinogenik)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label15_bg" class="for_r15" x="187.65056" y="426.05212" width="235.15609" height="41.59928" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="193.31093" y="447.36798" font-weight="400" font-size="14.4px" dy="-5.64791">Vinyl Chloride (Bahan Plastik PVC)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label16_bg" class="for_r16" x="188.55621" y="457.32577" width="188.93448" height="41.59918" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="193.31093" y="478.64158" font-weight="400" font-size="14.4px" dy="-5.64791">Toluidine (Zat Karsinogenik)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label17_bg" class="for_r17" x="188.55621" y="488.59933" width="191.3306" height="41.59918" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="193.31093" y="509.91518" font-weight="400" font-size="14.4px" dy="-5.64791">Urethane (Zat Karsinogenik)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label18_bg" class="for_r18" x="188.55621" y="519.87302" width="227.322" height="41.59912" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="start" x="193.31093" y="541.18877" font-weight="400" font-size="14.4px" dy="-5.64791">Dibenzacridine (Zat Karsinogenik)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+<rect id="label19_bg" class="for_r19" x="188.55621" y="551.14651" width="219.34653" height="41.59918" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="193.31093" y="572.46237" font-weight="400" font-size="14.4px" dy="-5.64791">Polonium -210 (bahan radioaktif)<tspan x="193.31093" dy="19.32" font-weight="400" font-size="17.6px">1</tspan></text>
+</g>
+</g></svg>
